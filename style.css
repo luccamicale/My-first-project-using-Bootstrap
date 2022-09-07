@@ -1,0 +1,48 @@
+.navbar-brand {
+  background-color: lime;
+}
+
+.container {
+  margin-top: 50px;
+  padding-top: 15px;
+  text-align: center;
+}
+
+.col1 {
+  background-color: green;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: whitesmoke;
+}
+
+.col2 {
+  background-color: rgb(25, 184, 25);
+  font-family: 'Courier New', Courier, monospace;
+  color: whitesmoke;
+}
+
+.col3 {
+  background-color: rgb(51, 247, 51);
+  font-family: 'Times New Roman', Times, serif;
+  color: whitesmoke;
+}
+
+.card {
+  width: 22rem;
+  margin-top: 60px;
+  margin-left: 100px;
+  flex-direction: row;
+}
+
+.card-img-top {
+  width: 200px;
+  height: 190px;
+}
+
+.card-group {
+  margin-right: 50px;
+}
+
+.title {
+  margin-top: 60px;
+  margin-left: 25%;
+}
